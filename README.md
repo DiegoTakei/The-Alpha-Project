@@ -1,2 +1,3 @@
-# The-Alpha-Project
-in progress
+# The Alpha Project
+
+In progress
